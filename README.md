@@ -2,12 +2,25 @@
 
 ## 🛠️ Tech Stacks
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
+### Languages
+<p>
+<img src="https://img.shields.io/badge/C-F4B6C2?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/Python-D8B4F8?style=for-the-badge&logo=python&logoColor=white">
+</p>
 
+### Database
+<p>
+<img src="https://img.shields.io/badge/MySQL-AEDFF7?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
+
+### Tools
+<p>
+<img src="https://img.shields.io/badge/GitHub-D4A5A5?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-CDB4DB?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-FFC8DD?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-BAD7F2?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/Confluence-CDEAC0?style=for-the-badge&logo=confluence&logoColor=white">
+</p>
 
 ## 🧑‍💻 Contact me
 
@@ -41,10 +54,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Chaebin&bg_color=180,e7d6db,00000000&title_color=5a2634&text_color=5a2634"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaebin&layout=compact&bg_color=180,e7d6db,00000000&title_color=5a2634&text_color=5a2634"/>
-    </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=Chaebin&bg_color=180,e7d6db,00000000&title_color=5a2634&text_color=5a2634"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaebin&layout=compact&bg_color=180,e7d6db,00000000&title_color=5a2634&text_color=5a2634"
-           /> </div> 
-    </div>
-    
