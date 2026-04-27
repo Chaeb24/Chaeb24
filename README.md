@@ -52,6 +52,4 @@
 
 ## 🏅 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chaebin&bg_color=180,e7d6db,00000000&title_color=5a2634&text_color=5a2634"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaebin&layout=compact&bg_color=180,e7d6db,00000000&title_color=5a2634&text_color=5a2634"/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fijighs5)](https://solved.ac/profile/fijighs5)
