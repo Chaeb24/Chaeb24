@@ -50,6 +50,3 @@
 | 🎓 | 2019.03 ~ 2022.08 | 식품영양학전공 | 성신여자대학교 |
 
 
-## 🏅 Stats
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fijighs5)](https://solved.ac/profile/fijighs5)
