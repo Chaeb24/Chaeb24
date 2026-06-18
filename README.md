@@ -13,6 +13,7 @@
 <p>
   <img src="https://img.shields.io/badge/MySQL-9FD3F4?style=for-the-badge&logo=mysql&logoColor=005C84">
   <img src="https://img.shields.io/badge/Oracle-B7E4C7?style=for-the-badge&logo=oracle&logoColor=2D6A4F">
+</p>
 
 ### Tools
 <p>
@@ -21,6 +22,16 @@
   <img src="https://img.shields.io/badge/Figma-FFC8DD?style=for-the-badge&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Jira-BAD7F2?style=for-the-badge&logo=jira&logoColor=white">
   <img src="https://img.shields.io/badge/Confluence-CDEAC0?style=for-the-badge&logo=confluence&logoColor=white">
+</p>
+
+### Certifications
+<p>
+  <img src="https://img.shields.io/badge/TOEIC_970-E8F0FE?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/OPIC_IH-F1F3F4?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/정보처리기사-E6F4F5?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/ADSP-FFF0F5?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/컴퓨터활용능력_1급-EBF5FB?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/한국사능력시험_1급-F5EEF8?style=for-the-badge&logoColor=black">
 </p>
 
 ## 🧑‍💻 Contact me
