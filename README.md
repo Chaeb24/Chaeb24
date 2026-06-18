@@ -12,8 +12,7 @@
 ### Database
 <p>
   <img src="https://img.shields.io/badge/MySQL-9FD3F4?style=for-the-badge&logo=mysql&logoColor=005C84">
-  <img src="https://img.shields.io/badge/Oracle-E5989B?style=for-the-badge&logo=oracle&logoColor=9D0208">
-</p>
+  <img src="https://img.shields.io/badge/Oracle-B7E4C7?style=for-the-badge&logo=oracle&logoColor=2D6A4F">
 
 ### Tools
 <p>
