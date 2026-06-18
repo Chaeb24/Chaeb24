@@ -1,36 +1,36 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=A8DADC&height=120&text=Chaebin's%20Github&fontColor=E63946&fontSize=60"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=A8DADC&height=120&text=Chaebin's%20Github&fontColor=ffb6c1&fontSize=60"/>
 
 ## 🛠️ Tech Stacks
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/C-E07A5F?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-9A8C98?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-F4A261?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C-F8CEDA?style=for-the-badge&logo=c&logoColor=C25A72">
+  <img src="https://img.shields.io/badge/Python-E6E0F8?style=for-the-badge&logo=python&logoColor=846FC0">
+  <img src="https://img.shields.io/badge/Java-FAF1E6?style=for-the-badge&logo=openjdk&logoColor=C7A17E">
 </p>
 
 ### Database
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4EA8DE?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-83C5BE?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-E3F4FD?style=for-the-badge&logo=mysql&logoColor=0073BB">
+  <img src="https://img.shields.io/badge/Oracle-E9F7EF?style=for-the-badge&logo=oracle&logoColor=E85C51">
 </p>
 
 ### Tools
 <p>
-  <img src="https://img.shields.io/badge/GitHub-4A4E69?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-B5828C?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-E0A96D?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Jira-90E0EF?style=for-the-badge&logo=jira&logoColor=0052CC">
-  <img src="https://img.shields.io/badge/Confluence-A3B19B?style=for-the-badge&logo=confluence&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-E8EAEE?style=for-the-badge&logo=github&logoColor=000000">
+  <img src="https://img.shields.io/badge/Notion-EDF0F5?style=for-the-badge&logo=notion&logoColor=000000">
+  <img src="https://img.shields.io/badge/Figma-FAEAEF?style=for-the-badge&logo=figma&logoColor=F24E1E">
+  <img src="https://img.shields.io/badge/Jira-E3F2FD?style=for-the-badge&logo=jira&logoColor=0052CC">
+  <img src="https://img.shields.io/badge/Confluence-E7F7F1?style=for-the-badge&logo=confluence&logoColor=172B4D">
 </p>
 
-## 📜 Certifications
+### Certifications
 <p>
-  <img src="https://img.shields.io/badge/TOEIC_970-A8DADC?style=for-the-badge&logoColor=1D3557">
+  <img src="https://img.shields.io/badge/TOEIC_970-E8F0FE?style=for-the-badge&logoColor=1D45D0">
   <img src="https://img.shields.io/badge/OPIC_IH-EDF2F4?style=for-the-badge&logoColor=2B2D42">
-  <img src="https://img.shields.io/badge/정보처리기사-C1D3FE?style=for-the-badge&logoColor=ABC4FF">
-  <img src="https://img.shields.io/badge/ADSP-E2ECE9?style=for-the-badge&logoColor=000000">
-  <img src="https://img.shields.io/badge/컴퓨터활용능력_1급-D0D1FF?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/정보처리기사-C1D3FE?style=for-the-badge&logoColor=0F298C">
+  <img src="https://img.shields.io/badge/ADSP-E2ECE9?style=for-the-badge&logoColor=007F9E">
+  <img src="https://img.shields.io/badge/컴퓨터활용능력_1급-E0DFFF?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/한국사능력시험_1급-E8E8E4?style=for-the-badge&logoColor=000000">
 </p>
 
