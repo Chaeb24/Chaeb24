@@ -11,9 +11,9 @@
 
 ### Database
 <p>
-<img src="https://img.shields.io/badge/MySQL-AEDFF7?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-AEDFF7?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </p>
-
 ### Tools
 <p>
 <img src="https://img.shields.io/badge/GitHub-D4A5A5?style=for-the-badge&logo=github&logoColor=white">
