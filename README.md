@@ -4,23 +4,24 @@
 
 ### Languages
 <p>
-<img src="https://img.shields.io/badge/C-F4B6C2?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/Python-D8B4F8?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Java-F4C7AB?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C-F4B6C2?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-D8B4F8?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-F4C7AB?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
 ### Database
 <p>
-  <img src="https://img.shields.io/badge/MySQL-AEDFF7?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-9FD3F4?style=for-the-badge&logo=mysql&logoColor=005C84">
+  <img src="https://img.shields.io/badge/Oracle-E5989B?style=for-the-badge&logo=oracle&logoColor=9D0208">
 </p>
+
 ### Tools
 <p>
-<img src="https://img.shields.io/badge/GitHub-D4A5A5?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Notion-CDB4DB?style=for-the-badge&logo=notion&logoColor=white">
-<img src="https://img.shields.io/badge/Figma-FFC8DD?style=for-the-badge&logo=figma&logoColor=white">
-<img src="https://img.shields.io/badge/Jira-BAD7F2?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/Confluence-CDEAC0?style=for-the-badge&logo=confluence&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-D4A5A5?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-CDB4DB?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-FFC8DD?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-BAD7F2?style=for-the-badge&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Confluence-CDEAC0?style=for-the-badge&logo=confluence&logoColor=white">
 </p>
 
 ## 🧑‍💻 Contact me
