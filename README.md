@@ -1,37 +1,37 @@
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=b1d5ae&height=120&text=Chaebin's%20Github&fontColor=ffb6c1&fontSize=60"/>
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=A8DADC&height=120&text=Chaebin's%20Github&fontColor=E63946&fontSize=60"/>
 
 ## 🛠️ Tech Stacks
 
 ### Languages
 <p>
-  <img src="https://img.shields.io/badge/C-F4B6C2?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-D8B4F8?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-F4C7AB?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C-E07A5F?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-9A8C98?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-F4A261?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>
 
 ### Database
 <p>
-  <img src="https://img.shields.io/badge/MySQL-9FD3F4?style=for-the-badge&logo=mysql&logoColor=005C84">
-  <img src="https://img.shields.io/badge/Oracle-B7E4C7?style=for-the-badge&logo=oracle&logoColor=2D6A4F">
+  <img src="https://img.shields.io/badge/MySQL-4EA8DE?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle-83C5BE?style=for-the-badge&logo=oracle&logoColor=white">
 </p>
 
 ### Tools
 <p>
-  <img src="https://img.shields.io/badge/GitHub-D4A5A5?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-CDB4DB?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-FFC8DD?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/Jira-BAD7F2?style=for-the-badge&logo=jira&logoColor=white">
-  <img src="https://img.shields.io/badge/Confluence-CDEAC0?style=for-the-badge&logo=confluence&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-4A4E69?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-B5828C?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-E0A96D?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Jira-90E0EF?style=for-the-badge&logo=jira&logoColor=0052CC">
+  <img src="https://img.shields.io/badge/Confluence-A3B19B?style=for-the-badge&logo=confluence&logoColor=white">
 </p>
 
-### Certifications
+## 📜 Certifications
 <p>
-  <img src="https://img.shields.io/badge/TOEIC_970-E8F0FE?style=for-the-badge&logoColor=black">
-  <img src="https://img.shields.io/badge/OPIC_IH-F1F3F4?style=for-the-badge&logoColor=black">
-  <img src="https://img.shields.io/badge/정보처리기사-E6F4F5?style=for-the-badge&logoColor=black">
-  <img src="https://img.shields.io/badge/ADSP-FFF0F5?style=for-the-badge&logoColor=black">
-  <img src="https://img.shields.io/badge/컴퓨터활용능력_1급-EBF5FB?style=for-the-badge&logoColor=black">
-  <img src="https://img.shields.io/badge/한국사능력시험_1급-F5EEF8?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/TOEIC_970-A8DADC?style=for-the-badge&logoColor=1D3557">
+  <img src="https://img.shields.io/badge/OPIC_IH-EDF2F4?style=for-the-badge&logoColor=2B2D42">
+  <img src="https://img.shields.io/badge/정보처리기사-C1D3FE?style=for-the-badge&logoColor=ABC4FF">
+  <img src="https://img.shields.io/badge/ADSP-E2ECE9?style=for-the-badge&logoColor=000000">
+  <img src="https://img.shields.io/badge/컴퓨터활용능력_1급-D0D1FF?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/한국사능력시험_1급-E8E8E4?style=for-the-badge&logoColor=000000">
 </p>
 
 ## 🧑‍💻 Contact me
@@ -61,5 +61,4 @@
 | 🎓 | 2024.03 ~ 2026.02 | 컴퓨터과학전공 (편입) | 상명대학교 졸업 |
 | 💼 | 2023.02 ~ 2023.07 | 영양사 근무 | 포레스트 한방병원, 푸디스트 |
 | 🎓 | 2019.03 ~ 2022.08 | 식품영양학전공 | 성신여자대학교 졸업 |
-
 
