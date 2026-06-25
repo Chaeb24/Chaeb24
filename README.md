@@ -26,7 +26,7 @@
 
 ### Certifications
 <p>
-  <img src="https://img.shields.io/badge/TOEIC_970-E8F0FE?style=for-the-badge&logoColor=1D45D0">
+  <img src="https://img.shields.io/badge/TOEIC_940-E8F0FE?style=for-the-badge&logoColor=1D45D0">
   <img src="https://img.shields.io/badge/OPIC_IH-EDF2F4?style=for-the-badge&logoColor=2B2D42">
   <img src="https://img.shields.io/badge/정보처리기사-C1D3FE?style=for-the-badge&logoColor=0F298C">
   <img src="https://img.shields.io/badge/ADSP-E2ECE9?style=for-the-badge&logoColor=007F9E">
@@ -53,7 +53,7 @@
 
 | Type | Period | Activity | Organization |
 |:---:|:---|:---|:---|
-| 🎓 | 2026.05 ~ 현재 | 신한DS SW아카데미 부트캠프 수강 | 신한DS |
+| 🎓 | 2026.05 ~ 현재 | 신한DS SW아카데미 부트캠프 수강중 | 신한DS |
 | 💼 | 2026.01 ~ 2026.03 | 스타트업 베어러블 인턴 | 스타트업 베어러블 |
 | 🏆 | 2025.10 | 대전교통공사 주최 공공데이터 활용 경진대회 최우수상 | 유클리드소프트 |
 | 🏆 | 2025.08 | ABC 성과발표회 최우수상 | 유클리드소프트 |
