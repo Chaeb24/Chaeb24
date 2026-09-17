@@ -1,13 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=A8DADC&height=120&text=Chaebin's%20Github&fontColor=ffb6c1&fontSize=60"/>
 
-<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=Chaeb24&utm_content=farm">
-<img
-  src="https://render.gitanimals.org/farms/Chaeb24"
-  width="600"
-  height="300"
-/>
-</a>
-
 ## 🛠️ Tech Stacks
 
 ### Main Stack
