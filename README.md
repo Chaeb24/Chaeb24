@@ -16,11 +16,12 @@
   <img src="https://img.shields.io/badge/C-212529?style=for-the-badge&logo=c&logoColor=A8B9CC">
 </p>
 
-### Frontend Basics
+### Frontend 기초수준
 <p>
   <img src="https://img.shields.io/badge/HTML5-212529?style=for-the-badge&logo=html5&logoColor=E34F26">
   <img src="https://img.shields.io/badge/CSS3-212529?style=for-the-badge&logo=css3&logoColor=1572B6">
   <img src="https://img.shields.io/badge/JavaScript-212529?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <img src="https://img.shields.io/badge/React-212529?style=for-the-badge&logo=react&logoColor=61DAFB">
 </p>
 
 ### Tools
@@ -58,5 +59,5 @@
 
 ### Awards
 * **대전교통공사 공공데이터 활용 경진대회** 최우수상 (2025.10)
-* **ABC 성과발표회** 최우수상 (2025.08)
+* **ABC부트캠프 성과발표회** 최우수상 (2025.08)
 * **상명대학교 캡스톤경진대회** 입선 (2025.08)
