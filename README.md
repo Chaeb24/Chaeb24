@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/C-212529?style=for-the-badge&logo=c&logoColor=A8B9CC">
 </p>
 
-### Frontend 기초수준
+### Frontend(can read & understand codes)
 <p>
   <img src="https://img.shields.io/badge/HTML5-212529?style=for-the-badge&logo=html5&logoColor=E34F26">
   <img src="https://img.shields.io/badge/CSS3-212529?style=for-the-badge&logo=css3&logoColor=1572B6">
@@ -35,9 +35,6 @@
 
 ## 🧑‍💻 Contact
 
-<a href="https://chaebideas77.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white">
-</a>
 <a href="https://www.notion.so/bbf8abfec86782e1b7ff0178f68dca3f">
   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white">
 </a>
